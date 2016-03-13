@@ -9,4 +9,4 @@ Link to play the the game: https://rawgit.com/PouryaSohbati/SaviorOrSacrifice/ma
 ScreenShot
 ----------
 
-![Savior Or Sacrifice](screenshot1.png)
+(screenshot1.png)
